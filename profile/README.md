@@ -1,7 +1,7 @@
 # ChainGraph v2
 
-![ChainGraph logo](./docs/images/dark_bg.png#gh-dark-mode-only)
-![ChainGraph logo](./docs/images/light_bg.png#gh-light-mode-only)
+![ChainGraph logo](./images/dark_bg.png#gh-dark-mode-only)
+![ChainGraph logo](./images/light_bg.png#gh-light-mode-only)
 
 [![License](https://img.shields.io/badge/license-BSL-blue.svg)](LICENSE.txt)
 
